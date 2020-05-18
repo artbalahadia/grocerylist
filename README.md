@@ -1,1 +1,2 @@
 # grocerylist
+Simple Vanilla Javascript 
