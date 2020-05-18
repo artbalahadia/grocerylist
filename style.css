@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(to right, #AAFFA9, #11FFBD);
+    font-family: 'Poiret One';
+}
+
+.container {
+    padding: 10rem;
+}
+
+#main {
+    box-shadow: 3px 3px gray;
+}
+
+#add-item, #clear-list {
+    background: linear-gradient(to right, #AAFFA9, #11FFBD);
+    color: gray;
+    font-family: 'Poiret One';
+}
+
+#card-title {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    
+}
